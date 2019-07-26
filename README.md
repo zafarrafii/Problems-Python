@@ -6,13 +6,9 @@ This repository contains Jupyter notebooks with Python coding problems and solut
 
 ## 01. Find longest word in dictionary that is a subsequence of a given string
 
-### Problem
+- [Problem](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
 
-[URL](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
-
-### Solution
-
-[Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
+- [Solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
 
 
 ## Author
