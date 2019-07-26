@@ -8,11 +8,11 @@ This repository contains Jupyter notebooks with Python coding problems and solut
 
 ### Problem
 
-See https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge
+[URL](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
 
 ### Solution
 
-See [Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
+[Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
 
 
 ## Author
