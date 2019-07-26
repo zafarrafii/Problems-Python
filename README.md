@@ -1,6 +1,9 @@
 # Python-Problems
 This repository contains Jupyter notebooks with Python coding problems and solutions.
 
+- [Find longest word in dictionary that is a subsequence of a given string](#find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string)
+- [Author](#author)
+
 ## Find longest word in dictionary that is a subsequence of a given string
 
 **The Challenge**
@@ -21,4 +24,14 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 
 This question gives you the chance to practice with algorithms and data structures. It’s also a good example of why careful analysis for Big-O performance is often worthwhile, as is careful exploration of common and worst-case input conditions.
 
-[Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
+[Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
+
+
+## Author
+
+- Zafar Rafii
+- zafarrafii@gmail.com
+- [Website](http://zafarrafii.com/)
+- [CV](http://zafarrafii.com/Zafar%20Rafii%20-%20C.V..pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=8wbS2EsAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/zafarrafii/)
