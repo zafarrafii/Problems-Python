@@ -20,3 +20,5 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 **Learning objectives**
 
 This question gives you the chance to practice with algorithms and data structures. It’s also a good example of why careful analysis for Big-O performance is often worthwhile, as is careful exploration of common and worst-case input conditions.
+
+[Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
