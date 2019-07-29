@@ -1,8 +1,10 @@
 # Python-Problems
 This repository contains Jupyter notebooks with Python coding problems (and solutions).
 
-1. [Find longest word in dictionary that is a subsequence of a given string](#find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string) ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
+1. [Find longest word in dictionary that is a subsequence of a given string](#01-find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string) ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
+2. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations) ([CodingBat](https://codingbat.com/prob/p234011))
 - [Author](#author)
+
 
 ## 01. Find longest word in dictionary that is a subsequence of a given string
 
@@ -21,6 +23,19 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 - The word "kangaroo" is the longest word in D, but it isn't a subsequence of S.
 
 **[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)**
+
+
+## 02. Simple interpreter that understands "+", "-", and "\*" operations
+
+From [CodingBat](https://codingbat.com/prob/p234011)
+
+Write a simple interpreter which understands "+", "-", and "\*" operations. Apply the operations in order using command/arg pairs starting with the initial value of 'value'. If you encounter an unknown command, return -1.
+
+- interpret(1, ['+'], [1]) → 2
+- interpret(4, ['-'], [2]) → 2
+- interpret(1, ['+', '\*'], [1, 3]) → 6
+
+**[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)**
 
 
 ## Author
