@@ -1,13 +1,11 @@
 # Python-Problems
 This repository contains Jupyter notebooks with Python coding problems and solutions.
 
-1. [Find longest word in dictionary that is a subsequence of a given string](#find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string)
+1. [Find longest word in dictionary that is a subsequence of a given string](#find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string)  ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
 - [Author](#author)
 
 ## 01. Find longest word in dictionary that is a subsequence of a given string
 
- From [Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)
- 
  Given a string ``S`` and a set of words ``D``, find the longest word in ``D`` that is a subsequence of ``S``.
 
 Word ``W`` is a subsequence of ``S`` if some number of characters, possibly zero, can be deleted from ``S`` to form ``W``, without reordering the remaining characters.
