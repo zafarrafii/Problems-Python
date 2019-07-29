@@ -20,7 +20,7 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 - The word "bale" is not a subsequence of S because even though S has all the right letters, they are not in the right order.
 - The word "kangaroo" is the longest word in D, but it isn't a subsequence of S.
 
-See [solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
+Proposed [solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)
 
 
 ## Author
