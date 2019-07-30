@@ -6,6 +6,7 @@ This repository contains Jupyter notebooks with Python coding problems (and solu
 03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string) ([Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge))
 04. [Distribute candies](#04-distribute-candies) ([LeetCode](https://leetcode.com/problems/distribute-candies/#/description))
 05. [Movie review sentiment analysis](#05-movie-review-sentiment-analysis) ([Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/))
+06. [Find the volume of each lake created by rainwater](#05-find-the-volume-of-each-lake-created-by-rainwater) ([Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge))
 - [Author](#author)
 
 
@@ -135,6 +136,25 @@ We have provided two examples of projects based on this idea that we have used i
 - [CS 2 Starter Code](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2SentimentStarterCode.zip). This code shows how to read the movie review data. It also provides the .h files for the custom class and hash table functions that need to be implemented.
 
 **[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)**
+
+
+## 06. Find the volume of each lake created by rainwater
+
+From [Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge)
+
+Imagine an island that is in the shape of a bar graph. When it rains, certain areas of the island fill up with rainwater to form lakes. Any excess rainwater the island cannot hold in lakes will run off the island to the west or east and drain into the ocean.
+
+Given an array of positive integers representing 2-D bar heights, design an algorithm (or write a function) that can compute the total volume (capacity) of water that could be held in all lakes on such an island given an array of the heights of the bars. Assume an elevation map where the width of each bar is 1.
+
+Example: Given ``[1,3,2,4,1,3,1,4,5,2,2,1,4,2,2]``, return ``15`` (3 bodies of water with volumes of 1,7,7 yields total volume of 15)
+
+![title](https://techdevguide.withgoogle.com/static/images/resources/r-in-25-volume-of-water-1.jpg)
+
+**Learning objectives**
+
+This question offers practice with algorithms, data structures, Big-O, defining functions, generalization, efficiency, time and space complexity, and anticipating edge cases.
+
+**[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)**
 
 
 ## Author
