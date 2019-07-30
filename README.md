@@ -34,7 +34,7 @@ This question gives you the chance to practice with algorithms and data structur
 
 ### Solution
 
-**[See Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)**
+**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)**
 
 
 ## 02. Simple interpreter that understands "+", "-", and "\*" operations
