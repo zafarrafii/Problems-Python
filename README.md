@@ -93,8 +93,8 @@ The sister has three different kinds of candies.
 
 **Example 2**:
 ```
-**Input**: candies = [1,1,2,3]
-**Output**: 2
+Input: candies = [1,1,2,3]
+Output: 2
 Explanation: For example, the sister has candies [2,3] and the brother has candies [1,1]. 
 The sister has two different kinds of candies, the brother has only one kind of candies. 
 ```
