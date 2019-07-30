@@ -4,6 +4,7 @@ This repository contains Jupyter notebooks with Python coding problems (and solu
 01. [Find longest word in dictionary that is a subsequence of a given string](#01-find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string) ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
 02. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations) ([CodingBat](https://codingbat.com/prob/p234011))
 03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string) ([Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge))
+04. [Distribute candies](#04-distribute-candies) ([LeetCode](https://leetcode.com/problems/distribute-candies/#/description))
 - [Author](#author)
 
 
@@ -72,6 +73,38 @@ Brackets are only part of syntax of writing repeated substring.
 Input is always valid, so no need to check its validity.
 
 **[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)**
+
+
+## 04. Distribute candies
+
+From [LeetCode](https://leetcode.com/problems/distribute-candies/#/description)
+
+Given an integer array with even length, where different numbers in this array represent different kinds of candies. Each number means one candy of the corresponding kind. You need to distribute these candies equally in number to brother and sister. Return the maximum number of kinds of candies the sister could gain.
+
+**Example 1**:
+```
+Input: candies = [1,1,2,2,3,3]
+Output: 3
+Explanation:
+There are three different kinds of candies (1, 2 and 3), and two candies for each kind.
+Optimal distribution: The sister has candies [1,2,3] and the brother has candies [1,2,3], too. 
+The sister has three different kinds of candies.
+```
+
+**Example 2**:
+```
+Input: candies = [1,1,2,3]
+Output: 2
+Explanation: For example, the sister has candies [2,3] and the brother has candies [1,1]. 
+The sister has two different kinds of candies, the brother has only one kind of candies. 
+```
+
+**Note**:
+
+1. The length of the given array is in range [2, 10,000], and will be even.
+2. The number in given array is in range [-100,000, 100,000].
+
+**[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)**
 
 
 ## Author
