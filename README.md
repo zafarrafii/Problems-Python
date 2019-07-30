@@ -34,7 +34,7 @@ This question gives you the chance to practice with algorithms and data structur
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)*
 
 
 ## 02. Simple interpreter that understands "+", "-", and "\*" operations
@@ -51,7 +51,7 @@ Write a simple interpreter which understands "+", "-", and "\*" operations. Appl
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)*
 
 
 ## 03. Compression and decompression of a string
@@ -94,7 +94,7 @@ This question gives you the chance to practice with strings, recursion, algorith
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)*
 
 
 ## 04. Distribute candies
@@ -130,7 +130,7 @@ The sister has two different kinds of candies, the brother has only one kind of 
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)*
 
 
 ## 05. Movie review sentiment analysis
@@ -163,7 +163,7 @@ We have provided two examples of projects based on this idea that we have used i
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)*
 
 
 ## 06. Find the volume of each lake created by rainwater
@@ -186,7 +186,7 @@ This question offers practice with algorithms, data structures, Big-O, defining 
 
 ### Solution
 
-*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)*
 
 
 ## Author
