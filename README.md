@@ -41,7 +41,7 @@ This question gives you the chance to practice with algorithms and data structur
 
 ### Problem
 
-**From [CodingBat](https://codingbat.com/prob/p234011)**
+*From [CodingBat](https://codingbat.com/prob/p234011)*
 
 Write a simple interpreter which understands "+", "-", and "\*" operations. Apply the operations in order using command/arg pairs starting with the initial value of 'value'. If you encounter an unknown command, return -1.
 
@@ -51,14 +51,14 @@ Write a simple interpreter which understands "+", "-", and "\*" operations. Appl
 
 ### Solution
 
-**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)**
+*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)*
 
 
 ## 03. Compression and decompression of a string
 
 ### Problem
 
-From [Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge)
+*From [Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge)*
 
 In this exercise, you're going to decompress a compressed string.
 
@@ -94,14 +94,14 @@ This question gives you the chance to practice with strings, recursion, algorith
 
 ### Solution
 
-**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)**
+*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)*
 
 
 ## 04. Distribute candies
 
 ### Problem
 
-From [LeetCode](https://leetcode.com/problems/distribute-candies/#/description)
+*From [LeetCode](https://leetcode.com/problems/distribute-candies/#/description)*
 
 Given an integer array with **even** length, where different numbers in this array represent different **kinds** of candies. Each number means one candy of the corresponding kind. You need to distribute these candies **equally** in number to brother and sister. Return the maximum number of **kinds** of candies the sister could gain.
 
@@ -130,14 +130,14 @@ The sister has two different kinds of candies, the brother has only one kind of 
 
 ### Solution
 
-**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)**
+*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)*
 
 
 ## 05. Movie review sentiment analysis
 
 ### Problem
 
-From [Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/)
+*From [Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/)*
 
 **About**
 
@@ -163,14 +163,14 @@ We have provided two examples of projects based on this idea that we have used i
 
 ### Solution
 
-**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)**
+*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)*
 
 
 ## 06. Find the volume of each lake created by rainwater
 
 ### Problem
 
-From [Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge)
+*From [Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge)*
 
 Imagine an island that is in the shape of a bar graph. When it rains, certain areas of the island fill up with rainwater to form lakes. Any excess rainwater the island cannot hold in lakes will run off the island to the west or east and drain into the ocean.
 
@@ -186,7 +186,7 @@ This question offers practice with algorithms, data structures, Big-O, defining 
 
 ### Solution
 
-**See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)**
+*See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)*
 
 
 ## Author
