@@ -88,6 +88,10 @@ Brackets are only part of syntax of writing repeated substring.
 
 Input is always valid, so no need to check its validity.
 
+**Learning objectives**
+
+This question gives you the chance to practice with strings, recursion, algorithm, compilers, automata, and loops. It’s also an opportunity to work on coding with better efficiency.
+
 ### Solution
 
 **See [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)**
