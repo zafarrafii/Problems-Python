@@ -5,6 +5,7 @@ This repository contains Jupyter notebooks with Python coding problems (and solu
 02. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations) ([CodingBat](https://codingbat.com/prob/p234011))
 03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string) ([Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge))
 04. [Distribute candies](#04-distribute-candies) ([LeetCode](https://leetcode.com/problems/distribute-candies/#/description))
+05. [Movie review sentiment analysis](#05-movie-review-sentiment-analysis) ([Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/))
 - [Author](#author)
 
 
@@ -105,6 +106,35 @@ The sister has two different kinds of candies, the brother has only one kind of 
 2. The number in given array is in range [-100,000, 100,000].
 
 **[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)**
+
+
+## 05. Movie review sentiment analysis
+
+From [Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/)
+
+**About**
+
+This assignment uses movie reviews from the Rotten Tomatoes database to do some simple sentiment analysis. Students will write programs that use the review text and a manually labeled review score to automatically learn how negative or positive the connotations of a particular word are. This can then be used to predict the sentiment of new text with reasonably good results. For example, student programs will be able to read text like this:
+
+*The film was a breath of fresh air.*
+
+and predict that it is a positive review while predicting negative sentiment for text like this:
+
+*It made me want to poke out my eyeballs.*
+
+The data (with some pre-processing from us) is from a [Sentiment Analysis project at Stanford](https://nlp.stanford.edu/sentiment/) (which used a much more sophisticated algorithm) and has been used for a [Kaggle machine learning competition](https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews).
+
+We have provided two examples of projects based on this idea that we have used in a CS 1 course and a CS 2 course, though there are many extensions that could be made for these or other higher-level courses.
+
+**Materials**
+
+- [Movie review data file](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/movieReviews.txt). We removed all of the partial reviews from the Kaggle data and reformatted it to make it a little easier for students to read into their programs.
+- [CS 1 Assignment Handout](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS1Project.doc). In this assignment, students use the data to determine the sentiment of individual words and practice common early CS 1 concepts like control structures, file I/O, accumulators/counters, min/max algorithm, and methods.
+- [CS 1 Starter Code](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS1SentimentStarterCode.zip). This code shows how to read the different fields of the movie review data and search for words within reviews. This is short and can be developed live with students or given ahead of time.
+- [CS 2 Assignment Handout](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2Project.doc). In this assignment, students predict the sentiment of larger pieces of text. The assignment requires appropriate data structures (e.g. hash tables, custom classes) to increase the search speed and reduce the need for excessive file access.
+- [CS 2 Starter Code](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2SentimentStarterCode.zip). This code shows how to read the movie review data. It also provides the .h files for the custom class and hash table functions that need to be implemented.
+
+**[Proposed solution](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)**
 
 
 ## Author
