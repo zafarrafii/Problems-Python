@@ -1,6 +1,6 @@
 # Python-Problems
 
-This repository contains Jupyter notebooks with Python coding problems (and solutions). These can be good exercises for beginners to improve their programming skills and for more experienced users to review their programming skills in Python. The problems are borrowed from the Internet and the solutions are given in Jupyter notebooks with detailed comments to help understand them. Feel free to contact me if you find a bug in my proposed solutions. Enjoy!
+This repository contains Jupyter notebooks with Python coding problems (and solutions). These can be good exercises for beginners to improve their programming skills and for more experienced users to review their programming skills in Python. The problems are borrowed from the Internet and the solutions are given in Jupyter notebooks with detailed comments to help understand them. Feel free to contact me if you find a bug in the proposed solutions. Enjoy!
 
 01. [Find longest word in dictionary that is a subsequence of a given string](#01-find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string) ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
 02. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations) ([CodingBat](https://codingbat.com/prob/p234011))
