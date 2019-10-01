@@ -33,7 +33,7 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 
 This question gives you the chance to practice with algorithms and data structures. It’s also a good example of why careful analysis for Big-O performance is often worthwhile, as is careful exploration of common and worst-case input conditions.
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)*
 
@@ -50,7 +50,7 @@ Write a simple interpreter which understands "+", "-", and "\*" operations. Appl
 - interpret(4, ['-'], [2]) → 2
 - interpret(1, ['+', '\*'], [1, 3]) → 6
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)*
 
@@ -93,7 +93,7 @@ Input is always valid, so no need to check its validity.
 
 This question gives you the chance to practice with strings, recursion, algorithm, compilers, automata, and loops. It’s also an opportunity to work on coding with better efficiency.
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)*
 
@@ -129,7 +129,7 @@ The sister has two different kinds of candies, the brother has only one kind of 
 1. The length of the given array is in range [2, 10,000], and will be even.
 2. The number in given array is in range [-100,000, 100,000].
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)*
 
@@ -162,7 +162,7 @@ We have provided two examples of projects based on this idea that we have used i
 - [CS 2 Assignment Handout](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2Project.doc). In this assignment, students predict the sentiment of larger pieces of text. The assignment requires appropriate data structures (e.g. hash tables, custom classes) to increase the search speed and reduce the need for excessive file access.
 - [CS 2 Starter Code](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2SentimentStarterCode.zip). This code shows how to read the movie review data. It also provides the .h files for the custom class and hash table functions that need to be implemented.
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)*
 
@@ -185,7 +185,7 @@ Example: Given [1,3,2,4,1,3,1,4,5,2,2,1,4,2,2], return 15 (3 bodies of water wit
 
 This question offers practice with algorithms, data structures, Big-O, defining functions, generalization, efficiency, time and space complexity, and anticipating edge cases.
 
-### Solution
+### Solution and Explanation
 
 *See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)*
 
