@@ -1,13 +1,12 @@
 # Python-Problems
 
-This repository contains Jupyter notebooks with Python coding problems (and solutions). These can be good exercises for beginners and more experienced users to improve and review their programming skills in Python. The problems are borrowed from the Internet and the solutions are given in Jupyter notebooks with detailed comments to help understand them. The proposed solutions are not necessarily optimized so feel free to to contact me if you find anything wrong with them. Enjoy!
+This repository contains Jupyter notebooks with Python coding problems (and solutions). These can be good exercises for beginners and more experienced users to improve and review their programming skills in Python. The problems are borrowed from the Internet and the solutions are given in Jupyter notebooks with detailed comments to help understand them. The proposed solutions are not necessarily optimal so feel free to to contact me if you find anything wrong with them. Enjoy!
 
-01. [Find longest word in dictionary that is a subsequence of a given string](#01-find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string) ([Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge))
-02. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations) ([CodingBat](https://codingbat.com/prob/p234011))
-03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string) ([Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge))
-04. [Distribute candies](#04-distribute-candies) ([LeetCode](https://leetcode.com/problems/distribute-candies/#/description))
-05. [Movie review sentiment analysis](#05-movie-review-sentiment-analysis) ([Nifty Assignments](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/))
-06. [Find the volume of each lake created by rainwater](#06-find-the-volume-of-each-lake-created-by-rainwater) ([Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge))
+01. [Find longest word in dictionary that is a subsequence of a given string](#01-find-longest-word-in-dictionary-that-is-a-subsequence-of-a-given-string)
+02. [Simple interpreter that understands "+", "-", and "\*" operations](#02-simple-interpreter-that-understands----and--operations)
+03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string)
+04. [Distribute candies](#04-distribute-candies) 
+05. [Movie review sentiment analysis](#05-movie-review-sentiment-analysis)
 - [Author](#author)
 
 
@@ -15,7 +14,7 @@ This repository contains Jupyter notebooks with Python coding problems (and solu
 
 ### Problem
 
-*From [Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string/#code-challenge)*
+*From [Google](https://techdevguide.withgoogle.com/paths/foundational/find-longest-word-in-dictionary-that-subsequence-of-given-string#code-challenge)*
 
  Given a string ``S`` and a set of words ``D``, find the longest word in ``D`` that is a subsequence of ``S``.
 
@@ -33,9 +32,9 @@ For example, given the input of ``S = "abppplee"`` and ``D = {"able", "ale", "ap
 
 This question gives you the chance to practice with algorithms and data structures. It’s also a good example of why careful analysis for Big-O performance is often worthwhile, as is careful exploration of common and worst-case input conditions.
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2001.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem01.ipynb)*
 
 
 ## 02. Simple interpreter that understands "+", "-", and "\*" operations
@@ -50,9 +49,9 @@ Write a simple interpreter which understands "+", "-", and "\*" operations. Appl
 - interpret(4, ['-'], [2]) → 2
 - interpret(1, ['+', '\*'], [1, 3]) → 6
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2002.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem02.ipynb)*
 
 
 ## 03. Compression and decompression of a string
@@ -93,9 +92,9 @@ Input is always valid, so no need to check its validity.
 
 This question gives you the chance to practice with strings, recursion, algorithm, compilers, automata, and loops. It’s also an opportunity to work on coding with better efficiency.
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2003.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem03.ipynb)*
 
 
 ## 04. Distribute candies
@@ -129,9 +128,9 @@ The sister has two different kinds of candies, the brother has only one kind of 
 1. The length of the given array is in range [2, 10,000], and will be even.
 2. The number in given array is in range [-100,000, 100,000].
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2004.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem04.ipynb)*
 
 
 ## 05. Movie review sentiment analysis
@@ -162,9 +161,9 @@ We have provided two examples of projects based on this idea that we have used i
 - [CS 2 Assignment Handout](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2Project.doc). In this assignment, students predict the sentiment of larger pieces of text. The assignment requires appropriate data structures (e.g. hash tables, custom classes) to increase the search speed and reduce the need for excessive file access.
 - [CS 2 Starter Code](http://nifty.stanford.edu/2016/manley-urness-movie-review-sentiment/CS2SentimentStarterCode.zip). This code shows how to read the movie review data. It also provides the .h files for the custom class and hash table functions that need to be implemented.
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2005.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem05.ipynb)*
 
 
 ## 06. Find the volume of each lake created by rainwater
@@ -185,9 +184,9 @@ Example: Given [1,3,2,4,1,3,1,4,5,2,2,1,4,2,2], return 15 (3 bodies of water wit
 
 This question offers practice with algorithms, data structures, Big-O, defining functions, generalization, efficiency, time and space complexity, and anticipating edge cases.
 
-### Solution and Explanation
+### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%2006.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%06.ipynb)*
 
 
 ## Author
