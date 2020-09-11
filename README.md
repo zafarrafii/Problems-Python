@@ -7,7 +7,6 @@ This repository contains Jupyter notebooks with Python coding problems (and solu
 03. [Compression and decompression of a string](#03-compression-and-decompression-of-a-string)
 04. [Distribute candies](#04-distribute-candies) 
 05. [Movie review sentiment analysis](#05-movie-review-sentiment-analysis)
-- [Author](#author)
 
 
 ## 01. Find longest word in dictionary that is a subsequence of a given string
