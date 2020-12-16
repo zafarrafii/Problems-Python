@@ -1,4 +1,4 @@
-# Python-Problems
+# Problems-Python
 
 This repository contains Jupyter notebooks with Python coding problems (and solutions). These can be good exercises for beginners and more experienced users to improve and review their programming skills in Python. The problems are borrowed from the Internet and the solutions are given in Jupyter notebooks with detailed comments to help understand them. The proposed solutions are not necessarily optimal so feel free to to contact me if you find anything wrong with them. Enjoy!
 
