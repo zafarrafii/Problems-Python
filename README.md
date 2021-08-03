@@ -185,7 +185,7 @@ This question offers practice with algorithms, data structures, Big-O, defining 
 
 ### Solution and Explanations
 
-*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem%06.ipynb)*
+*See [Jupyter notebook](https://nbviewer.jupyter.org/github/zafarrafii/Python-Problems/blob/master/Problem06.ipynb)*
 
 
 ## Author
