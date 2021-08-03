@@ -169,7 +169,7 @@ We have provided two examples of projects based on this idea that we have used i
 
 ### Problem
 
-*From [Google](https://techdevguide.withgoogle.com/paths/advanced/volume-of-water/#code-challenge)*
+*From [Google](https://techdevguide.withgoogle.com/resources/former-interview-question-volume-of-lakes/#!)*
 
 Imagine an island that is in the shape of a bar graph. When it rains, certain areas of the island fill up with rainwater to form lakes. Any excess rainwater the island cannot hold in lakes will run off the island to the west or east and drain into the ocean.
 
