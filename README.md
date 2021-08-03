@@ -57,7 +57,7 @@ Write a simple interpreter which understands "+", "-", and "\*" operations. Appl
 
 ### Problem
 
-*From [Google](https://techdevguide.withgoogle.com/paths/advanced/compress-decompression/#code-challenge)*
+*From [Google](https://techdevguide.withgoogle.com/resources/former-interview-question-compression-and-decompression/#!)*
 
 In this exercise, you're going to decompress a compressed string.
 
