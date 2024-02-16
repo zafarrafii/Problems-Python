@@ -191,7 +191,6 @@ This question offers practice with algorithms, data structures, Big-O, defining 
 ## Author
 
 - Zafar Rafii
-- zafarrafii@gmail.com
 - http://zafarrafii.com/
 - [CV](http://zafarrafii.com/Zafar%20Rafii%20-%20C.V..pdf)
 - [GitHub](https://github.com/zafarrafii)
